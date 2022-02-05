@@ -1,5 +1,5 @@
 //
-//  main.c
+//  Deterministic_optimization.c
 //  Rosembrok_function
 //
 //  Created by Cibrán López Álvarez on 20/01/2022.
