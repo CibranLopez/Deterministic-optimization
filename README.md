@@ -1,6 +1,6 @@
 # Rosembrok function
 
-Here an implementation of steepest descent and conjugate gradient methods can be found, devoted to minimize the Rosembrok function (currently define with (a, b = (1, 100), but easily modifiable).
+Here an implementation of steepest descent and conjugate gradient methods can be found, devoted to minimize the Rosembrok function (currently define with (a, b) = (1, 100), but easily modifiable).
 
 In order to execute it, 'Deterministic_optimization.c' may be run once it is compiled with 'Rosembok_function.h', where the function is defined.
 
