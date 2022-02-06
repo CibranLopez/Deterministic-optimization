@@ -15,7 +15,7 @@
 
 #define maximum_iterations 1000
 #define rho_backtracking 0.996
-#define sigma_backtracking 0.501
+#define sigma_backtracking 0.5
 #define n_partial 10
 
 
